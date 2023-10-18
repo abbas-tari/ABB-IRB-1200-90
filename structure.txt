@@ -1,0 +1,48 @@
+.
+├── build
+│   ├── bdist.linux-x86_64
+│   ├── lib.linux-x86_64-3.9
+│   │   └── pyikfast_abb_irb_1200_90.cpython-39-x86_64-linux-gnu.so
+│   ├── lib.linux-x86_64-cpython-39
+│   │   └── pyikfast_abb_irb_1200_90.cpython-39-x86_64-linux-gnu.so
+│   ├── temp.linux-x86_64-3.9
+│   │   ├── ikfast_robot.o
+│   │   └── pyikfast.o
+│   └── temp.linux-x86_64-cpython-39
+│       ├── ikfast_robot.o
+│       └── pyikfast.o
+├── dist
+│   └── pyikfast_abb_irb_1200_90-0.0.1-py3.9-linux-x86_64.egg
+├── ikfast.h
+├── ikfast_robot.cpp
+├── pyikfast
+│   ├── bin
+│   │   ├── activate
+│   │   ├── activate.csh
+│   │   ├── activate.fish
+│   │   ├── Activate.ps1
+│   │   ├── f2py
+│   │   ├── pip
+│   │   ├── pip3
+│   │   ├── pip3.9
+│   │   ├── python -> python3.9
+│   │   ├── python3 -> python3.9
+│   │   └── python3.9 -> /usr/bin/python3.9
+│   ├── include
+│   ├── lib
+│   │   └── python3.9
+│   ├── lib64 -> lib
+│   └── pyvenv.cfg
+├── pyikfast_abb_irb_1200_90.egg-info
+│   ├── dependency_links.txt
+│   ├── PKG-INFO
+│   ├── requires.txt
+│   ├── SOURCES.txt
+│   └── top_level.txt
+├── pyikfast.cpp
+├── robot.urdf
+├── setup.py
+├── structure.txt
+└── test.py
+
+14 directories, 31 files
